@@ -1,0 +1,46 @@
+html {
+    background-color: rgb(110, 115, 244); 
+  }
+  
+  body {
+    min-height: 100vh;
+    width: 800px;
+    margin: 0 auto;
+    background-color :bisque;
+  }
+  
+  img {
+    height: 400px;
+    width: 400px;
+    padding :50px
+  }
+  
+  
+  #main{
+    background-color:yellow;
+    border: 2px solid ;
+    padding: 5px;
+   margin: 50px;
+   font-size: 39px;
+   font-family:cursive;
+   color :red;
+   font: oblique;
+  }
+  table ,td,th,tr{
+    border: 2px solid black;
+    margin : 25px;
+  }
+  td
+  {
+    padding-left: 32px;
+  }
+  th
+  {
+    padding-left: 50px;
+  }
+  footer
+  {
+  background-color: black;
+  color: white;
+  padding :20px 320px;
+  }
